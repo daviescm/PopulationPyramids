@@ -1,2 +1,2 @@
 # PopulationPyramids
-Population Pyramids in Python with Census Bureau data
+This repository holds the data and python script for creating a series of population pyramids for Jefferson County, KY, for each year from 1970-2018. The changing shape of the population distribution and the changing median age (denoted by a dashed line) show how the population has shifted in the past 50 years, from a very youthful population with a large base to the pyramid to today's more evenly-distributed, rectangular shape. Annotations on each graph add numbers to back up the visualization.
